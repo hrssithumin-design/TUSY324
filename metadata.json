@@ -1,0 +1,6 @@
+{
+  "name": "Aether Cloud",
+  "description": "A minimalist clean utility and media suite featuring Aether Search & Pulse, Mail, Drive & Docs, Maps, Photos, and Calendar with unified account and 9-dot app switcher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
